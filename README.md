@@ -1,4 +1,4 @@
-# 📊 Social Media Engagement Dashboard (Power BI)
+#  Social Media Engagement Dashboard (Power BI)
 
 ## Overview
 This project analyzes social media engagement across multiple platforms to identify trends in user interaction and content performance.
